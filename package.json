@@ -1,0 +1,22 @@
+{
+  "name": "averygranum.com",
+  "version": "0.0.1",
+  "description": "This will be my website code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/granum41/averygranum.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/granum41/averygranum.com/issues"
+  },
+  "homepage": "https://github.com/granum41/averygranum.com#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
