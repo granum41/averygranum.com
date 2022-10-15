@@ -4,13 +4,7 @@ const port = 3000
 
 app.get('/', (req, res) => {
     console.log("I heard a sound ")
-    res.json({ 
-        username: 'Aw shucks',
-        dont: "dont",
-        wont: "yo",
-        sumpinL: 123,
-        LOL: 'åß',
-    })
+    res.send("Hello world")
 })
 
 app.listen(port, () => {
